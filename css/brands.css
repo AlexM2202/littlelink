@@ -84,6 +84,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/*Work Server*/
+.button.button-workserver {
+  color: #ffffff;
+  background-color: #ff6600;
+}
+.button.button-workserver:hover
+.button.button-workserver:focus{
+  filter: brightness(90%);
+}
+
 /* Amazon */
 .button.button-amazon {
   color: #000000;
